@@ -1,2 +1,3 @@
 This is the new git project.
-I will try this version control program.
+I will try this distributed version control system.
+Git is a free software.
