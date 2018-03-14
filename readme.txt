@@ -5,3 +5,4 @@ Git is very useful in our daily life.
 I am learning Git now.
 Creating a new branch is quick and simple.
 This is merge with ff.
+I am trying to use dev branch and add a new file.
