@@ -4,4 +4,4 @@ Git is a free software.
 Git is very useful in our daily life.
 I am learning Git now.
 Creating a new branch is quick and simple.
-This is merge with no-ff
+This is merge with ff.
